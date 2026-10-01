@@ -101,10 +101,8 @@ The database consists of the following key entities:
 
 
 ---
-## 👤 Author
+## 👥 Contributors
 
-* **Akib Zawad**
 * **Enan Mahmud**
+* **Akib Zawad**
 ---
-
-
